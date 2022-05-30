@@ -1,0 +1,68 @@
+{
+    "owner": "IPMA",
+    "country": "PT",
+    "data": [
+        {
+            "precipitaProb": "91.0",
+            "tMin": "16.3",
+            "tMax": "20.2",
+            "predWindDir": "SW",
+            "idWeatherType": 6,
+            "classWindSpeed": 2,
+            "longitude": "-8.6294",
+            "forecastDate": "2022-05-30",
+            "classPrecInt": 2,
+            "latitude": "41.1580"
+        },
+        {
+            "precipitaProb": "100.0",
+            "tMin": "15.9",
+            "tMax": "20.9",
+            "predWindDir": "S",
+            "idWeatherType": 9,
+            "classWindSpeed": 1,
+            "longitude": "-8.6294",
+            "forecastDate": "2022-05-31",
+            "classPrecInt": 2,
+            "latitude": "41.1580"
+        },
+        {
+            "precipitaProb": "99.0",
+            "tMin": "16.4",
+            "tMax": "20.6",
+            "predWindDir": "SW",
+            "idWeatherType": 6,
+            "classWindSpeed": 2,
+            "longitude": "-8.6294",
+            "forecastDate": "2022-06-01",
+            "classPrecInt": 2,
+            "latitude": "41.1580"
+        },
+        {
+            "precipitaProb": "91.0",
+            "tMin": "16.0",
+            "tMax": "21.1",
+            "predWindDir": "S",
+            "idWeatherType": 6,
+            "classWindSpeed": 2,
+            "longitude": "-8.6294",
+            "forecastDate": "2022-06-02",
+            "classPrecInt": 2,
+            "latitude": "41.1580"
+        },
+        {
+            "precipitaProb": "88.0",
+            "tMin": "15.2",
+            "tMax": "20.3",
+            "predWindDir": "S",
+            "idWeatherType": 6,
+            "classWindSpeed": 2,
+            "longitude": "-8.6294",
+            "forecastDate": "2022-06-03",
+            "classPrecInt": 2,
+            "latitude": "41.1580"
+        }
+    ],
+    "globalIdLocal": 1131200,
+    "dataUpdate": "2022-05-30T18:31:04"
+}
