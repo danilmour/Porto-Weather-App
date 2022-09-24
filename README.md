@@ -1,8 +1,5 @@
-# Porto-Weather-App
+# Run program:
 
-This is a simple Weather App based on JSON files provided by IPMA.
-
-## Run program:
 ```bash
-python
+python weather.py
 ```
